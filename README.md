@@ -1,2 +1,2 @@
 # programming
-Repo for various Programming apspects implemented using Python
+Repo for various Programming aspects implemented using Python
