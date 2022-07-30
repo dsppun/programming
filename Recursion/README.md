@@ -4,7 +4,7 @@ Two important factors for recursion :
 * Recurrence Relation - Identify how the given problem or scenario is going to reduce in 
                         each iteration to reach Base Case.
 
-[Code Examples](https://www.google.com)
+[Code Examples](https://github.com/dsppun/programming/blob/main/Recursion/main.py)
 
 # Memoization
 Sometimes while using recursion, while iterating to reach base, some cases may be duplicated i.e. the function is called 
